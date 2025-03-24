@@ -34,6 +34,10 @@ jobs:
           hub-mirror.c.163.com
           hub.atomgit.com
           hub.docker.com
+          run-docker.cn
+          docker.xuanyuan.me
+          docker.mrxn.net
+          dislabaiot.xyz
           registry.docker.com
           registry-1.docker.io
           mirror.gcr.io
